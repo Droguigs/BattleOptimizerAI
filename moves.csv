@@ -1,0 +1,49 @@
+,name,accuracy,effect_chance,pp,priority,power,damage_class,effect_entries,target,type
+0,pound,100,,35,0,40,physical,Inflicts regular damage.,selected-pokemon,normal
+1,karate-chop,100,,25,0,50,physical,Inflicts regular damage.  User's critical hit rate is one level higher when using this move.,selected-pokemon,fighting
+2,double-slap,85,,10,0,15,physical,"Inflicts regular damage.  Hits 2–5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",selected-pokemon,normal
+3,comet-punch,85,,15,0,18,physical,"Inflicts regular damage.  Hits 2–5 times in one turn.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",selected-pokemon,normal
+4,mega-punch,85,,20,0,80,physical,Inflicts regular damage.,selected-pokemon,normal
+5,pay-day,100,,20,0,40,physical,"Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.",selected-pokemon,normal
+6,fire-punch,100,10,15,0,75,physical,Inflicts regular damage.  Has a $effect_chance% chance to burn the target.,selected-pokemon,fire
+7,ice-punch,100,10,15,0,75,physical,Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.,selected-pokemon,ice
+8,thunder-punch,100,10,15,0,75,physical,Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.,selected-pokemon,electric
+9,scratch,100,,35,0,40,physical,Inflicts regular damage.,selected-pokemon,normal
+10,vice-grip,100,,30,0,55,physical,Inflicts regular damage.,selected-pokemon,normal
+11,guillotine,30,,5,0,,physical,"Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.
+
+Because this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.
+
+The effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",selected-pokemon,normal
+12,razor-wind,100,,10,0,80,special,"Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.
+
+This move cannot be selected by sleep talk.",all-opponents,normal
+13,swords-dance,,,20,0,,status,Raises the user's Attack by two stages.,user,normal
+14,cut,95,,30,0,50,physical,Inflicts regular damage.,selected-pokemon,normal
+15,gust,100,,35,0,40,special,"Inflicts regular damage.
+
+If the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",selected-pokemon,flying
+16,wing-attack,100,,35,0,60,physical,Inflicts regular damage.,selected-pokemon,flying
+17,whirlwind,,,20,-6,,status,"Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.
+
+Doesn't affect Pokémon with suction cups or under the effect of ingrain.",selected-pokemon,normal
+18,fly,95,,15,0,90,physical,"Inflicts regular damage.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.
+
+During the immune turn, gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.
+
+The damage from hail and sandstorm still applies during the immune turn.
+
+The user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.
+
+This move cannot be used while gravity is in effect.
+
+This move cannot be selected by sleep talk.",selected-pokemon,flying
+19,bind,85,100,20,0,15,physical,"Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.
+
+Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.
+
+rapid spin cancels this effect.",selected-pokemon,normal
