@@ -25,6 +25,5 @@ async def main():
     for battle in player.battles.values():
         print(battle.rating, battle.opponent_rating)
 
-
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(main())

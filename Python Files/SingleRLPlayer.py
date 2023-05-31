@@ -1,7 +1,7 @@
 import asyncio
 import numpy as np
-import json
-from typing import Dict
+import poke_env.data as data
+import os
 
 from gym.spaces import Space, Box
 from gym.utils.env_checker import check_env
@@ -35,7 +35,7 @@ class SimpleRLPlayer(Gen8EnvSinglePlayer):
         # or is not available
         moves_base_power = -np.ones(4)
         moves_dmg_multiplier = np.ones(4)
-        type_chart = self.load_type_chart()
+        type_chart = data.GenData.load_type_chart(self, gen=8)
         for i, move in enumerate(battle.available_moves):
             moves_base_power[i] = (
                 move.base_power / 100
@@ -72,39 +72,9 @@ class SimpleRLPlayer(Gen8EnvSinglePlayer):
             dtype=np.float32,
         )
     
-    def load_type_chart(self) -> Dict[str, Dict[str, float]]:
-        json_file = open("data/static/typechart/gen8typechart.json")
-        json_chart = json.load(json_file)
-
-        types = [str(type_).upper() for type_ in json_chart]
-        type_chart = {type_1: {type_2: 1.0 for type_2 in types} for type_1 in types}
-
-        for type_, data in json_chart.items():
-            type_ = type_.upper()
-
-            for other_type, damage_taken in data["damageTaken"].items():
-                if other_type.upper() not in types:
-                    continue
-
-                assert damage_taken in {0, 1, 2, 3}, (data["damageTaken"], type_)
-
-                if damage_taken == 0:
-                    type_chart[type_][other_type.upper()] = 1
-                elif damage_taken == 1:
-                    type_chart[type_][other_type.upper()] = 2
-                elif damage_taken == 2:
-                    type_chart[type_][other_type.upper()] = 0.5
-                elif damage_taken == 3:
-                    type_chart[type_][other_type.upper()] = 0
-
-            assert set(types).issubset(set(type_chart))
-
-        assert len(type_chart) == len(types)
-
-        for effectiveness in type_chart.values():
-            assert len(effectiveness) == len(types)
-
-        return type_chart
+    @property
+    def _static_files_root(self) -> str:
+        return os.path.join(os.path.dirname(os.path.realpath(__file__)), "data/static")
 
 async def main():
     # Create one environment for training and one for evaluation
