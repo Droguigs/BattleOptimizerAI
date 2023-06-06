@@ -1,0 +1,4239 @@
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+EVs: 168 HP / 252 SpA / 88 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Modest Nature
+- Blizzard
+- Earth Power
+- Leaf Storm
+- Aurora Veil
+
+Abomasnow @ Icy Rock
+Ability: Snow Warning
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Ground
+Adamant Nature
+- Swords Dance
+- Wood Hammer
+- Earthquake
+- Ice Shard
+
+Alomomola @ Rocky Helmet
+Ability: Regenerator
+EVs: 40 HP / 252 Def / 216 SpD
+Tera Type: Fairy
+Relaxed Nature
+- Wish
+- Protect
+- Whirlpool
+- Play Rough
+
+Altaria @ Heavy-Duty Boots
+Ability: Natural Cure
+EVs: 252 HP / 180 Def / 76 SpD
+Tera Type: Steel
+Impish Nature
+- Brave Bird
+- Defog
+- Will-O-Wisp
+- Roost
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 172 Def / 84 SpD
+Tera Type: Water
+Bold Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Clear Smog
+
+Ampharos @ Assault Vest
+Ability: Static
+EVs: 252 HP / 176 SpA / 80 SpD
+Tera Type: Dragon
+Modest Nature
+- Discharge
+- Focus Blast
+- Volt Switch
+- Dragon Tail
+
+Annihilape @ Leftovers
+Ability: Defiant
+EVs: 240 HP / 252 SpD / 16 Spe
+Tera Type: Water
+Careful Nature
+- Bulk Up
+- Taunt
+- Drain Punch
+- Rage Fist
+
+Appletun @ Heavy-Duty Boots
+Ability: Thick Fat
+EVs: 248 HP / 8 SpA / 252 SpD
+Tera Type: Steel
+Calm Nature
+- Apple Acid
+- Recover
+- Leech Seed
+- Dragon Tail
+
+Arboliva @ Choice Specs
+Ability: Seed Sower
+EVs: 204 HP / 252 SpA / 52 Spe
+IVs: 0 Atk
+Tera Type: Grass
+Modest Nature
+- Leaf Storm
+- Earth Power
+- Hyper Voice
+- Giga Drain
+
+Arboliva @ Leftovers
+Ability: Seed Sower
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk
+Tera Type: Water
+Bold Nature
+- Giga Drain
+- Earth Power
+- Strength Sap
+- Leech Seed
+
+Arcanine @ Heavy-Duty Boots
+Ability: Intimidate
+EVs: 252 HP / 236 Def / 20 Spe
+Tera Type: Water
+Impish Nature
+- Flare Blitz
+- Will-O-Wisp
+- Morning Sun
+- Roar
+
+Arceus @ Leftovers
+Ability: Ice Scales
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Poison
+Timid Nature
+- Boomburst
+- Heart Swap
+- Knock Off
+- Strength Sap
+
+Arceus-Dark @ Dread Plate
+Ability: Multitype
+EVs: 248 HP / 136 Def / 124 Spe
+Tera Type: Poison
+Bold Nature
+- Foul Play
+- Toxic
+- Taunt
+- Recover
+
+Arceus-Fairy @ Heavy-Duty Boots
+Ability: Pixilate
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+Tera Type: Fairy
+Serious Nature
+- Strength Sap
+- Boomburst
+- Rapid Spin
+- Extreme Speed
+
+Arceus-Fire @ Leftovers
+Ability: Fur Coat
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Bold Nature
+- Lava Plume
+- Heal Bell
+- U-turn
+- Recover
+
+Arceus-Flying @ Covert Cloak
+Ability: Aerilate
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+Tera Type: Flying
+Serious Nature
+- Strength Sap
+- Boomburst
+- Rapid Spin
+- Nuzzle
+
+Arceus-Grass @ Leftovers
+Ability: Ice Scales
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Calm Nature
+- Recover
+- Nuzzle
+- Knock Off
+- Spikes
+
+Arceus-Ground @ Earth Plate
+Ability: Ice Scales
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Shore Up
+- Precipice Blades
+- Tidy Up
+- Toxic
+
+Armarouge @ Weakness Policy
+Ability: Weak Armor
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Psychic
+Timid Nature
+- Endure
+- Armor Cannon
+- Expanding Force
+- Aura Sphere
+
+Armarouge @ Heavy-Duty Boots
+Ability: Weak Armor
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Grass
+Timid Nature
+- Calm Mind
+- Armor Cannon
+- Expanding Force
+- Energy Ball
+
+Avalugg @ Heavy-Duty Boots
+Ability: Sturdy
+EVs: 252 HP / 4 Atk / 252 Def
+Tera Type: Fighting
+Impish Nature
+- Body Press
+- Avalanche
+- Recover
+- Rapid Spin
+
+Avalugg @ Heavy-Duty Boots
+Ability: Sturdy
+EVs: 252 HP / 4 Atk / 252 Def
+Tera Type: Fighting
+Impish Nature
+- Body Press
+- Avalanche
+- Recover
+- Rapid Spin
+
+Banette @ Life Orb
+Ability: Frisk
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Swords Dance
+- Knock Off
+- Shadow Claw
+- Sucker Punch
+
+Barraskewda @ Choice Band
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Water
+Adamant Nature
+- Liquidation
+- Close Combat
+- Crunch
+- Aqua Jet
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dragon
+Jolly Nature
+- Swords Dance
+- Glaive Rush
+- Icicle Spear
+- Ice Shard
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dragon
+Jolly Nature
+- Dragon Dance
+- Glaive Rush
+- Icicle Spear
+- Earthquake
+
+Baxcalibur @ Choice Band
+Ability: Thermal Exchange
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dragon
+Jolly Nature
+- Glaive Rush
+- Icicle Crash
+- Earthquake
+- Ice Shard
+
+Beartic @ Heavy-Duty Boots
+Ability: Slush Rush
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Swords Dance
+- Icicle Crash
+- Close Combat
+- Crunch
+
+Bellibolt @ Heavy-Duty Boots
+Ability: Electromorphosis
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk
+Tera Type: Flying
+Bold Nature
+- Parabolic Charge
+- Slack Off
+- Volt Switch
+- Muddy Water
+
+Blissey @ Heavy-Duty Boots
+Ability: Natural Cure
+EVs: 4 HP / 252 Def / 252 SpD
+IVs: 0 Atk
+Tera Type: Ghost
+Bold Nature
+- Seismic Toss
+- Soft-Boiled
+- Stealth Rock
+- Thunder Wave
+
+Bombirdier @ Heavy-Duty Boots
+Ability: Big Pecks
+EVs: 252 HP / 184 SpD / 72 Spe
+Tera Type: Ground
+Careful Nature
+- Knock Off
+- Stealth Rock
+- U-turn
+- Roost
+
+Bombirdier @ Focus Sash
+Ability: Big Pecks
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Stealth Rock
+- Taunt
+- Knock Off
+- Memento
+
+Bombirdier @ Choice Band
+Ability: Rocky Payload
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Knock Off
+- Brave Bird
+- Stone Edge
+- U-turn
+
+Brambleghast @ Heavy-Duty Boots
+Ability: Wind Rider
+EVs: 252 HP / 220 Def / 36 Spe
+Tera Type: Ghost
+Bold Nature
+- Rapid Spin
+- Strength Sap
+- Shadow Ball
+- Spikes
+
+Braviary @ Heavy-Duty Boots
+Ability: Defiant
+EVs: 248 HP / 28 Atk / 216 SpD / 16 Spe
+Tera Type: Steel
+Adamant Nature
+- Brave Bird
+- Defog
+- Roost
+- U-turn
+
+Breloom @ Focus Sash
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Adamant Nature
+- Spore
+- Bullet Seed
+- Mach Punch
+- Tera Blast
+
+Breloom @ Choice Band
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Adamant Nature
+- Bullet Seed
+- Close Combat
+- Mach Punch
+- Bulldoze
+
+Bronzong @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 124 Def / 132 SpD
+IVs: 0 Spe
+Tera Type: Water
+Sassy Nature
+- Stealth Rock
+- Gyro Ball
+- Earthquake
+- Hypnosis
+
+Bronzong @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 88 Def / 168 SpD
+IVs: 0 Atk
+Tera Type: Water
+Bold Nature
+- Iron Defense
+- Body Press
+- Psychic
+- Rest
+
+Brute Bonnet @ Loaded Dice
+Ability: Protosynthesis
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fire
+Adamant Nature
+- Spore
+- Bullet Seed
+- Sucker Punch
+- Tera Blast
+
+Bruxish @ Choice Band
+Ability: Strong Jaw
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Psychic Fangs
+- Wave Crash
+- Aqua Jet
+- Poison Fang
+
+Bruxish @ Mystic Water
+Ability: Strong Jaw
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fairy
+Jolly Nature
+- Swords Dance
+- Psychic Fangs
+- Aqua Jet
+- Tera Blast
+
+Bruxish @ Choice Scarf
+Ability: Strong Jaw
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Psychic Fangs
+- Wave Crash
+- Aqua Jet
+- Crunch
+
+Cacturne @ Life Orb
+Ability: Water Absorb
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Dark
+Naive Nature
+- Spikes
+- Leaf Storm
+- Sucker Punch
+- Drain Punch
+
+Cacturne @ Life Orb
+Ability: Water Absorb
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Adamant Nature
+- Swords Dance
+- Sucker Punch
+- Drain Punch
+- Seed Bomb
+
+Camerupt @ Leftovers
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Grass
+Calm Nature
+- Stealth Rock
+- Lava Plume
+- Earth Power
+- Rock Slide
+
+Camerupt @ Choice Specs
+Ability: Solid Rock
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Atk / 0 Spe
+Tera Type: Fire
+Quiet Nature
+- Eruption
+- Fire Blast
+- Earth Power
+- Ancient Power
+
+Carkol @ Eviolite
+Ability: Flame Body
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Ghost
+Sassy Nature
+- Rapid Spin
+- Stealth Rock
+- Spikes
+- Flamethrower
+
+Ceruledge @ Heavy-Duty Boots
+Ability: Flash Fire
+EVs: 252 HP / 244 SpD / 12 Spe
+Tera Type: Bug
+Careful Nature
+- Bulk Up
+- Bitter Blade
+- Shadow Sneak
+- Taunt
+
+Ceruledge @ Focus Sash
+Ability: Weak Armor
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Bitter Blade
+- Shadow Sneak
+- Close Combat
+
+Cetitan @ Sitrus Berry
+Ability: Slush Rush
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Ground
+Adamant Nature
+- Belly Drum
+- Icicle Crash
+- Earthquake
+- Ice Shard
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Fairy
+Bold Nature
+- Stealth Rock
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+
+Charizard @ Heavy-Duty Boots
+Ability: Blaze
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Timid Nature
+- Flamethrower
+- Hurricane
+- Focus Blast
+- Will-O-Wisp
+
+Charizard @ Heavy-Duty Boots
+Ability: Blaze
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Dragon Dance
+- Flare Blitz
+- Earthquake
+- Dragon Claw
+
+Chi-Yu @ Choice Specs
+Ability: Beads of Ruin
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Fire
+Modest Nature
+- Overheat
+- Flamethrower
+- Fire Blast
+- Dark Pulse
+
+Chi-Yu @ Choice Scarf
+Ability: Beads of Ruin
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fire
+Modest Nature
+- Flamethrower
+- Dark Pulse
+- Fire Blast
+- Psychic
+
+Chi-Yu @ Life Orb
+Ability: Beads of Ruin
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Fire
+Modest Nature
+- Overheat
+- Flamethrower
+- Dark Pulse
+- Nasty Plot
+
+Chien-Pao @ Choice Band
+Ability: Sword of Ruin
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Adamant Nature
+- Icicle Crash
+- Crunch
+- Ice Shard
+- Sacred Sword
+
+Chien-Pao @ Heavy-Duty Boots
+Ability: Sword of Ruin
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Adamant Nature
+- Swords Dance
+- Crunch
+- Icicle Crash
+- Sucker Punch
+
+Cinderace @ Heavy-Duty Boots
+Ability: Libero
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Pyro Ball
+- U-turn
+- Sucker Punch
+- Court Change
+
+Cinderace @ Heavy-Duty Boots
+Ability: Blaze
+EVs: 224 HP / 32 Atk / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Pyro Ball
+- U-turn
+- Will-O-Wisp
+- Court Change
+
+Clawitzer @ Choice Specs
+Ability: Mega Launcher
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Dragon
+Modest Nature
+- Dragon Pulse
+- Water Pulse
+- Aura Sphere
+- U-turn
+
+Clodsire @ Leftovers
+Ability: Unaware
+EVs: 248 HP / 8 Def / 252 SpD
+Tera Type: Water
+Careful Nature
+- Toxic
+- Stealth Rock
+- Recover
+- Earthquake
+
+Cloyster @ White Herb
+Ability: Skill Link
+EVs: 252 Atk / 4 SpA / 252 Spe
+Tera Type: Electric
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Drill Run
+- Tera Blast
+
+Copperajah @ Leftovers
+Ability: Heavy Metal
+EVs: 60 HP / 16 Atk / 180 Def / 252 SpD
+Tera Type: Flying
+Adamant Nature
+- Heavy Slam
+- Earthquake
+- Whirlwind
+- Protect
+
+Corviknight @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 252 Def / 8 SpD
+Tera Type: Water
+Impish Nature
+- Brave Bird
+- Body Press
+- U-turn
+- Roost
+
+Crabominable @ Assault Vest
+Ability: Iron Fist
+EVs: 252 HP / 196 SpD / 60 Spe
+Tera Type: Water
+Adamant Nature
+- Drain Punch
+- Ice Hammer
+- Earthquake
+- Close Combat
+
+Crabominable @ Life Orb
+Ability: Iron Fist
+EVs: 252 HP / 252 Atk / 4 SpD
+IVs: 0 Spe
+Tera Type: Fighting
+Brave Nature
+- Ice Hammer
+- Close Combat
+- Earthquake
+- Thunder Punch
+
+Cresselia @ Covert Cloak
+Ability: Levitate
+EVs: 248 HP / 8 SpA / 252 Spe
+Tera Type: Poison
+Timid Nature
+- Stored Power
+- Moonblast
+- Calm Mind
+- Moonlight
+
+Cryogonal @ Heavy-Duty Boots
+Ability: Levitate
+EVs: 248 HP / 8 Def / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Timid Nature
+- Rapid Spin
+- Freeze-Dry
+- Recover
+- Haze
+
+Cyclizar @ Life Orb
+Ability: Regenerator
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Steel
+Naive Nature
+- Draco Meteor
+- Overheat
+- Power Whip
+- U-turn
+
+Cyclizar @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 180 HP / 104 SpA / 224 Spe
+Tera Type: Steel
+Timid Nature
+- Draco Meteor
+- Knock Off
+- U-turn
+- Rapid Spin
+
+Dachsbun @ Heavy-Duty Boots
+Ability: Well-Baked Body
+EVs: 252 HP / 192 SpD / 64 Spe
+Tera Type: Steel
+Careful Nature
+- Wish
+- Play Rough
+- Body Press
+- Protect
+
+Decidueye (M) @ Heavy-Duty Boots
+Ability: Long Reach
+EVs: 248 HP / 44 Def / 216 SpD
+Tera Type: Normal
+Calm Nature
+- Leaf Storm
+- Knock Off
+- Roost
+- Defog
+
+Dedenne @ Choice Scarf
+Ability: Cheek Pouch
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- U-turn
+
+Dedenne @ Choice Specs
+Ability: Cheek Pouch
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- U-turn
+
+Delibird @ Focus Sash
+Ability: Vital Spirit
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Spikes
+- Rapid Spin
+- Ice Beam
+- Memento
+
+Diancie @ Diancite
+Ability: Magic Bounce
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature
+- Moonblast
+- Diamond Storm
+- Mystical Fire
+- Stealth Rock
+
+Ditto @ Choice Scarf
+Ability: Imposter
+EVs: 248 HP / 8 Def / 252 SpA
+IVs: 0 Spe
+Tera Type: Steel
+Quiet Nature
+- Transform
+
+Dondozo @ Heavy-Duty Boots
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Grass
+Impish Nature
+- Liquidation
+- Body Press
+- Rest
+- Sleep Talk
+
+Dondozo @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Grass
+Careful Nature
+- Curse
+- Liquidation
+- Body Press
+- Protect
+
+Donphan @ Leftovers
+Ability: Sturdy
+EVs: 208 HP / 252 Atk / 48 Spe
+Tera Type: Ghost
+Adamant Nature
+- Earthquake
+- Knock Off
+- Rapid Spin
+- Ice Spinner
+
+Donphan @ Assault Vest
+Ability: Sturdy
+EVs: 232 HP / 24 Atk / 204 SpD / 48 Spe
+Tera Type: Ghost
+Adamant Nature
+- Earthquake
+- Knock Off
+- Rapid Spin
+- Ice Spinner
+
+Dragalge @ Leftovers
+Ability: Adaptability
+EVs: 252 HP / 124 SpA / 132 Spe
+Tera Type: Water
+Modest Nature
+- Toxic Spikes
+- Draco Meteor
+- Sludge Bomb
+- Dragon Tail
+
+Dragalge @ Choice Specs
+Ability: Adaptability
+EVs: 84 HP / 252 SpA / 172 Spe
+IVs: 0 Atk
+Tera Type: Dragon
+Modest Nature
+- Draco Meteor
+- Sludge Bomb
+- Focus Blast
+- Shadow Ball
+
+Dragapult @ Choice Specs
+Ability: Infiltrator
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Draco Meteor
+- Shadow Ball
+- Flamethrower
+- U-turn
+
+Dragapult @ Choice Band
+Ability: Infiltrator
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dragon
+Adamant Nature
+- Dragon Darts
+- Phantom Force
+- Sucker Punch
+- U-turn
+
+Dragapult @ Heavy-Duty Boots
+Ability: Infiltrator
+EVs: 76 Atk / 180 SpA / 252 Spe
+Tera Type: Ghost
+Hasty Nature
+- Will-O-Wisp
+- Hex
+- Dragon Darts
+- U-turn
+
+Dragapult @ Leftovers
+Ability: Infiltrator
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dragon
+Adamant Nature
+- Dragon Dance
+- Dragon Darts
+- Phantom Force
+- Substitute
+
+Dragonite @ Heavy-Duty Boots
+Ability: Multiscale
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Adamant Nature
+- Dragon Dance
+- Extreme Speed
+- Earthquake
+- Fire Punch
+
+Dragonite @ Heavy-Duty Boots
+Ability: Multiscale
+EVs: 144 HP / 252 Atk / 112 Spe
+Tera Type: Normal
+Adamant Nature
+- Dragon Dance
+- Extreme Speed
+- Earthquake
+- Roost
+
+Dragonite @ Choice Band
+Ability: Multiscale
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Adamant Nature
+- Outrage
+- Extreme Speed
+- Earthquake
+- Fire Punch
+
+Drednaw @ Focus Sash
+Ability: Swift Swim
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Grass
+Adamant Nature
+- Shell Smash
+- Liquidation
+- Stone Edge
+- Tera Blast
+
+Drifblim @ Heavy-Duty Boots
+Ability: Aftermath
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Fairy
+Bold Nature
+- Hex
+- Will-O-Wisp
+- Defog
+- Strength Sap
+
+Dudunsparce @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 152 SpD / 104 Spe
+Tera Type: Ghost
+Careful Nature
+- Coil
+- Body Slam
+- Roost
+- Dragon Tail
+
+Dudunsparce @ Leftovers
+Ability: Rattled
+EVs: 252 HP / 172 Def / 84 Spe
+Tera Type: Ghost
+Bold Nature
+- Calm Mind
+- Boomburst
+- Shadow Ball
+- Roost
+
+Dugtrio @ Life Orb
+Ability: Sand Force
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Stone Edge
+- Sucker Punch
+
+Eelektross @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 240 SpD / 16 Spe
+Tera Type: Steel
+Careful Nature
+- Thunder Punch
+- Drain Punch
+- Dragon Tail
+- Coil
+
+Eelektross @ Assault Vest
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Spe
+Tera Type: Steel
+Sassy Nature
+- Discharge
+- U-turn
+- Giga Drain
+- Dragon Tail
+
+Eiscue @ Heavy-Duty Boots
+Ability: Ice Face
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ice
+Timid Nature
+- Snowscape
+- Freeze-Dry
+- Surf
+- Blizzard
+
+Electrode @ Heavy-Duty Boots
+Ability: Aftermath
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Tera Blast
+- Taunt
+
+Electrode @ Damp Rock
+Ability: Aftermath
+EVs: 252 HP / 4 SpA / 252 Spe
+Tera Type: Electric
+Timid Nature
+- Rain Dance
+- Taunt
+- Thunder
+- Explosion
+
+Espathra @ Electric Seed
+Ability: Speed Boost
+EVs: 152 HP / 244 Def / 112 Spe
+Tera Type: Fairy
+Bold Nature
+- Calm Mind
+- Stored Power
+- Dazzling Gleam
+- Roost
+
+Espeon @ Expert Belt
+Ability: Magic Bounce
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fire
+Timid Nature
+- Psychic
+- Grass Knot
+- Tera Blast
+- Morning Sun
+
+Espeon @ Light Clay
+Ability: Magic Bounce
+EVs: 252 HP / 4 Def / 252 Spe
+IVs: 0 Atk
+Tera Type: Ghost
+Timid Nature
+- Reflect
+- Light Screen
+- Yawn
+- Psychic
+
+Eternatus @ Heavy-Duty Boots
+Ability: Fur Coat
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Bold Nature
+- Strength Sap
+- Draco Meteor
+- Torch Song
+- Spikes
+
+Eternatus @ Draco Plate
+Ability: Mold Breaker
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Timid Nature
+- Nasty Plot
+- Judgment
+- Magma Storm
+- Strength Sap
+
+Eternatus @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Volt Switch
+- Dragon Energy
+- Spikes
+- Final Gambit
+
+Falinks @ Lum Berry
+Ability: Defiant
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- No Retreat
+- Close Combat
+- Rock Slide
+- Tera Blast
+
+Falinks @ Choice Band
+Ability: Defiant
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- First Impression
+- Close Combat
+- Rock Slide
+- Tera Blast
+
+Farigiraf @ Leftovers
+Ability: Armor Tail
+EVs: 20 Def / 252 SpA / 236 Spe
+Tera Type: Fairy
+Modest Nature
+- Calm Mind
+- Stored Power
+- Dazzling Gleam
+- Agility
+
+Flamigo @ Choice Scarf
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Liquidation
+- U-turn
+
+Flapple @ Choice Band
+Ability: Hustle
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dragon
+Adamant Nature
+- Grav Apple
+- Outrage
+- Sucker Punch
+- U-turn
+
+Flapple @ Choice Scarf
+Ability: Hustle
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dragon
+Jolly Nature
+- Grav Apple
+- Outrage
+- Sucker Punch
+- U-turn
+
+Flapple @ Choice Specs
+Ability: Ripen
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Dragon
+Modest Nature
+- Draco Meteor
+- Dragon Pulse
+- Giga Drain
+- U-turn
+
+Flapple @ Sitrus Berry
+Ability: Ripen
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Dragon Dance
+- Grav Apple
+- Acrobatics
+- Outrage
+
+Flareon @ Heavy-Duty Boots
+Ability: Flash Fire
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Grass
+Sassy Nature
+- Wish
+- Protect
+- Lava Plume
+- Body Slam
+
+Floatzel @ Choice Band
+Ability: Swift Swim
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Water
+Adamant Nature
+- Wave Crash
+- Liquidation
+- Aqua Jet
+- Ice Spinner
+
+Florges @ Leftovers
+Ability: Flower Veil
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk
+Tera Type: Steel
+Bold Nature
+- Wish
+- Protect
+- Calm Mind
+- Moonblast
+
+Flutter Mane @ Choice Specs
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Shadow Ball
+- Moonblast
+- Mystical Fire
+- Psyshock
+
+Flutter Mane @ Life Orb
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Shadow Ball
+- Moonblast
+- Calm Mind
+- Thunderbolt
+
+Flutter Mane @ Assault Vest
+Ability: Protosynthesis
+EVs: 176 HP / 240 SpA / 92 Spe
+Tera Type: Fairy
+Modest Nature
+- Moonblast
+- Shadow Ball
+- Psyshock
+- Thunderbolt
+
+Flutter Mane @ Choice Scarf
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Moonblast
+- Shadow Ball
+- Mystical Fire
+- Psyshock
+
+Froslass @ Focus Sash
+Ability: Cursed Body
+EVs: 196 HP / 60 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Ghost
+Timid Nature
+- Spikes
+- Shadow Ball
+- Icy Wind
+- Taunt
+
+Frosmoth @ Heavy-Duty Boots
+Ability: Ice Scales
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Timid Nature
+- Quiver Dance
+- Ice Beam
+- Tera Blast
+- Giga Drain
+
+Gallade @ Choice Scarf
+Ability: Sharpness
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Psycho Cut
+- Sacred Sword
+- Leaf Blade
+- Rock Slide
+
+Garchomp @ Rocky Helmet
+Ability: Rough Skin
+EVs: 252 HP / 4 SpD / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Spikes
+- Dragon Tail
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Fire
+Rash Nature
+- Draco Meteor
+- Earthquake
+- Fire Blast
+- Stealth Rock
+
+Garchomp @ Leftovers
+Ability: Rough Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Dragon Claw
+- Substitute
+
+Gardevoir @ Choice Scarf
+Ability: Trace
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Psychic
+- Moonblast
+- Healing Wish
+- Trick
+
+Gardevoir @ Choice Specs
+Ability: Trace
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Psyshock
+- Moonblast
+- Mystical Fire
+- Shadow Ball
+
+Garganacl @ Leftovers
+Ability: Purifying Salt
+EVs: 252 HP / 156 Def / 100 SpD
+Tera Type: Water
+Impish Nature
+- Curse
+- Salt Cure
+- Recover
+- Earthquake
+
+Garganacl @ Leftovers
+Ability: Purifying Salt
+EVs: 252 HP / 140 Def / 116 SpD
+Tera Type: Fairy
+Impish Nature
+- Stealth Rock
+- Salt Cure
+- Protect
+- Recover
+
+Garganacl @ Leftovers
+Ability: Purifying Salt
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Water
+Careful Nature
+- Iron Defense
+- Body Press
+- Salt Cure
+- Recover
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Ghost
+Calm Nature
+- Spikes
+- Sludge Bomb
+- Earth Power
+- Recover
+
+Gengar @ Choice Specs
+Ability: Cursed Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Energy Ball
+- Trick
+
+Gengar @ Choice Scarf
+Ability: Cursed Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Energy Ball
+- Thunderbolt
+
+Gengar @ Life Orb
+Ability: Cursed Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Sludge Bomb
+- Focus Blast
+
+Gengar @ Leftovers
+Ability: Cursed Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Will-O-Wisp
+- Hex
+- Sludge Bomb
+- Focus Blast
+
+Gholdengo @ Covert Cloak
+Ability: Good as Gold
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fighting
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+- Recover
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fighting
+Timid Nature
+- Shadow Ball
+- Make It Rain
+- Trick
+- Focus Blast
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fighting
+Modest Nature
+- Make It Rain
+- Shadow Ball
+- Focus Blast
+- Trick
+
+Gholdengo @ Air Balloon
+Ability: Good as Gold
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fighting
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Recover
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Flying
+Bold Nature
+- Hex
+- Thunder Wave
+- Recover
+- Nasty Plot
+
+Giratina @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Bold Nature
+- Haze
+- Recover
+- Entrainment
+- Parting Shot
+
+Giratina @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Bold Nature
+- Haze
+- Recover
+- Entrainment
+- Parting Shot
+
+Giratina @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Bold Nature
+- Haze
+- Recover
+- Entrainment
+- Parting Shot
+
+Giratina @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Bold Nature
+- Haze
+- Recover
+- Entrainment
+- Parting Shot
+
+Glalie @ Heavy-Duty Boots
+Ability: Inner Focus
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Spikes
+- Ice Spinner
+- Ice Shard
+- Earthquake
+
+Glalie @ Heavy-Duty Boots
+Ability: Inner Focus
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Spikes
+- Ice Spinner
+- Ice Shard
+- Earthquake
+
+Glimmora @ Choice Scarf
+Ability: Toxic Debris
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Ground
+Timid Nature
+- Earth Power
+- Sludge Wave
+- Power Gem
+- Spikes
+
+Gogoat @ Heavy-Duty Boots
+Ability: Sap Sipper
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Water
+Careful Nature
+- Bulk Up
+- Horn Leech
+- Rock Slide
+- Milk Drink
+
+Gogoat @ Choice Band
+Ability: Sap Sipper
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Rock
+Adamant Nature
+- Horn Leech
+- Rock Slide
+- Earthquake
+- Tera Blast
+
+Gogoat @ Assault Vest
+Ability: Sap Sipper
+EVs: 96 HP / 252 Atk / 160 Spe
+Tera Type: Water
+Adamant Nature
+- Horn Leech
+- Rock Slide
+- Earthquake
+- Trailblaze
+
+Golduck @ Mystic Water
+Ability: Swift Swim
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Modest Nature
+- Nasty Plot
+- Surf
+- Ice Beam
+- Rain Dance
+
+Golduck @ Choice Scarf
+Ability: Cloud Nine
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Surf
+- Focus Blast
+
+Golduck @ Choice Scarf
+Ability: Cloud Nine
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Surf
+- Focus Blast
+
+Grafaiai @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Poison
+Jolly Nature
+- Gunk Shot
+- Knock Off
+- Parting Shot
+- Encore
+
+Grafaiai @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Poison
+Careful Nature
+- Gunk Shot
+- Knock Off
+- Parting Shot
+- Encore
+
+Grafaiai @ Heavy-Duty Boots
+Ability: Poison Touch
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Poison
+Jolly Nature
+- Gunk Shot
+- Knock Off
+- U-turn
+- Low Kick
+
+Great Tusk @ Heavy-Duty Boots
+Ability: Protosynthesis
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Headlong Rush
+- Close Combat
+- Knock Off
+- Rapid Spin
+
+Great Tusk @ Leftovers
+Ability: Protosynthesis
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Fighting
+Impish Nature
+- Earthquake
+- Stealth Rock
+- Knock Off
+- Rapid Spin
+
+Great Tusk @ Choice Band
+Ability: Protosynthesis
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Headlong Rush
+- Close Combat
+- Knock Off
+- Ice Spinner
+
+Great Tusk @ Leftovers
+Ability: Protosynthesis
+EVs: 252 HP / 204 Def / 52 Spe
+Tera Type: Steel
+Impish Nature
+- Bulk Up
+- Earthquake
+- Knock Off
+- Rapid Spin
+
+Greninja @ Heavy-Duty Boots
+Ability: Protean
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Water
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Grass Knot
+- U-turn
+
+Greninja @ Focus Sash
+Ability: Torrent
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Toxic Spikes
+- Water Shuriken
+- Ice Beam
+- Taunt
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+EVs: 248 HP / 8 Def / 252 SpD
+Tera Type: Steel
+Careful Nature
+- Reflect
+- Light Screen
+- Taunt
+- Spirit Break
+
+Groudon @ Earth Plate
+Ability: Fur Coat
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Ground
+Adamant Nature
+- Victory Dance
+- Precipice Blades
+- Toxic
+- Strength Sap
+
+Gumshoos @ Choice Band
+Ability: Stakeout
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Adamant Nature
+- Body Slam
+- Earthquake
+- Crunch
+- U-turn
+
+Gyarados @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Flying
+Adamant Nature
+- Dragon Dance
+- Waterfall
+- Tera Blast
+- Taunt
+
+Hariyama @ Assault Vest
+Level: 50
+Ability: Thick Fat
+EVs: 252 Atk / 252 SpD / 4 Spe
+Tera Type: Steel
+Adamant Nature
+- Bullet Punch
+- Fake Out
+- Close Combat
+- Headlong Rush
+
+Hariyama @ Flame Orb
+Level: 50
+Ability: Guts
+EVs: 252 Atk / 252 SpD / 4 Spe
+Tera Type: Steel
+Adamant Nature
+- Bullet Punch
+- Fake Out
+- Close Combat
+- Earthquake
+
+Hatterene @ Leftovers
+Ability: Magic Bounce
+EVs: 252 HP / 204 Def / 52 Spe
+Tera Type: Water
+Bold Nature
+- Calm Mind
+- Draining Kiss
+- Psyshock
+- Mystical Fire
+
+Hatterene @ Eject Button
+Ability: Magic Bounce
+EVs: 248 HP / 116 Def / 144 Spe
+Tera Type: Steel
+Bold Nature
+- Healing Wish
+- Psychic
+- Dazzling Gleam
+- Nuzzle
+
+Hawlucha @ Choice Scarf
+Ability: Limber
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Brave Bird
+- U-turn
+- Defog
+
+Hawlucha @ Psychic Seed
+Ability: Unburden
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Adamant Nature
+- Swords Dance
+- Close Combat
+- Acrobatics
+- Taunt
+
+Haxorus @ Lum Berry
+Ability: Mold Breaker
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Dragon Dance
+- Dragon Claw
+- Earthquake
+- X-Scissor
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 196 SpD / 60 Spe
+Tera Type: Grass
+Calm Nature
+- Magma Storm
+- Earth Power
+- Taunt
+- Stealth Rock
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Grass
+Timid Nature
+- Magma Storm
+- Earth Power
+- Taunt
+- Toxic
+
+Heracross @ Flame Orb
+Ability: Guts
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Megahorn
+- Close Combat
+- Facade
+- Trailblaze
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 76 Def / 180 SpD
+Tera Type: Dragon
+Impish Nature
+- Stealth Rock
+- Earthquake
+- Slack Off
+- Stone Edge
+
+Honchkrow @ Heavy-Duty Boots
+Ability: Moxie
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Brave Bird
+- Sucker Punch
+- Night Slash
+- U-turn
+
+Honchkrow @ Heavy-Duty Boots
+Ability: Super Luck
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Flying
+Timid Nature
+- Dark Pulse
+- Hurricane
+- Heat Wave
+- Nasty Plot
+
+Houndoom @ Heavy-Duty Boots
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Poison
+Timid Nature
+- Nasty Plot
+- Dark Pulse
+- Fire Blast
+- Sludge Bomb
+
+Houndoom @ Choice Scarf
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fighting
+Timid Nature
+- Dark Pulse
+- Fire Blast
+- Overheat
+- Tera Blast
+
+Houndstone @ Choice Band
+Ability: Sand Rush
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ghost
+Adamant Nature
+- Last Respects
+- Shadow Sneak
+- Body Press
+- Trick
+
+Houndstone @ Leftovers
+Ability: Fluffy
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Water
+Impish Nature
+- Will-O-Wisp
+- Last Respects
+- Body Press
+- Rest
+
+Hydreigon @ Leftovers
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Timid Nature
+- Nasty Plot
+- Substitute
+- Dark Pulse
+- Earth Power
+
+Hypno @ Leftovers
+Ability: Insomnia
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Substitute
+- Nasty Plot
+- Psychic
+- Draining Kiss
+
+Indeedee @ Terrain Extender
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Psychic
+- Dazzling Gleam
+- Encore
+- Healing Wish
+
+Indeedee-F @ Choice Scarf
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Psychic
+Timid Nature
+- Trick
+- Psyshock
+- Hyper Voice
+- Healing Wish
+
+Indeedee-F @ Heavy-Duty Boots
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Psychic
+Timid Nature
+- Calm Mind
+- Psyshock
+- Tera Blast
+- Draining Kiss
+
+Iron Bundle @ Heavy-Duty Boots
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ice
+Timid Nature
+- Freeze-Dry
+- Hydro Pump
+- Ice Beam
+- Taunt
+
+Iron Bundle @ Heavy-Duty Boots
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ice
+Timid Nature
+- Freeze-Dry
+- Hydro Pump
+- Ice Beam
+- Taunt
+
+Iron Hands @ Leftovers
+Ability: Quark Drive
+EVs: 112 HP / 252 Atk / 144 Spe
+Tera Type: Flying
+Adamant Nature
+- Swords Dance
+- Drain Punch
+- Thunder Punch
+- Earthquake
+
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+EVs: 112 HP / 252 Atk / 144 Spe
+Tera Type: Water
+Adamant Nature
+- Close Combat
+- Wild Charge
+- Earthquake
+- Drain Punch
+
+Iron Jugulis @ Booster Energy
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ground
+Timid Nature
+- Dark Pulse
+- Hurricane
+- Earth Power
+- Taunt
+
+Iron Jugulis @ Heavy-Duty Boots
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ground
+Timid Nature
+- Dark Pulse
+- Hurricane
+- Earth Power
+- U-turn
+
+Iron Jugulis @ Choice Specs
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Flying
+Timid Nature
+- Dark Pulse
+- Hurricane
+- Earth Power
+- U-turn
+
+Iron Leaves @ Life Orb
+Ability: Quark Drive
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Electric
+Jolly Nature
+- Swords Dance
+- Leaf Blade
+- Psyblade
+- Wild Charge
+
+Iron Moth @ Booster Energy
+Ability: Quark Drive
+EVs: 124 Def / 132 SpA / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Fiery Dance
+- Energy Ball
+- Dazzling Gleam
+- Psychic
+
+Iron Moth @ Heavy-Duty Boots
+Ability: Quark Drive
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Toxic Spikes
+- Sludge Wave
+- Flamethrower
+- Morning Sun
+
+Iron Thorns @ Booster Energy
+Ability: Quark Drive
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Electric
+Jolly Nature
+- Dragon Dance
+- Ice Punch
+- Wild Charge
+- Rock Blast
+
+Iron Treads @ Booster Energy
+Ability: Quark Drive
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Earthquake
+- Iron Head
+- Knock Off
+- Rapid Spin
+
+Iron Treads @ Leftovers
+Ability: Quark Drive
+EVs: 252 HP / 4 SpD / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Rapid Spin
+- Volt Switch
+
+Iron Valiant @ Choice Specs
+Ability: Quark Drive
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Moonblast
+- Psyshock
+- Shadow Ball
+- Thunderbolt
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Fairy
+Naive Nature
+- Moonblast
+- Close Combat
+- Thunderbolt
+- Psyshock
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+EVs: 4 HP / 252 SpA / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Calm Mind
+- Moonblast
+- Thunderbolt
+- Psyshock
+
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Liquidation
+- Knock Off
+
+Iron Valiant @ Choice Scarf
+Ability: Quark Drive
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Fairy
+Naive Nature
+- Moonblast
+- Close Combat
+- Knock Off
+- Trick
+
+Jolteon @ Heavy-Duty Boots
+Ability: Volt Absorb
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ice
+Timid Nature
+- Thunderbolt
+- Tera Blast
+- Volt Switch
+- Calm Mind
+
+Jumpluff
+Ability: Infiltrator
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Strength Sap
+- Acrobatics
+- Sleep Powder
+- U-turn
+
+Jumpluff
+Ability: Infiltrator
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Swords Dance
+- Strength Sap
+- Acrobatics
+- Tera Blast
+
+Kingambit @ Lum Berry
+Ability: Supreme Overlord
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Dark
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Swords Dance
+- Iron Head
+
+Kingambit @ Leftovers
+Ability: Supreme Overlord
+EVs: 236 HP / 252 Atk / 20 Spe
+Tera Type: Fairy
+Adamant Nature
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+
+Kingambit @ Heavy-Duty Boots
+Ability: Supreme Overlord
+EVs: 112 HP / 252 Atk / 144 Spe
+Tera Type: Flying
+Adamant Nature
+- Swords Dance
+- Iron Head
+- Kowtow Cleave
+- Sucker Punch
+
+Klefki @ Light Clay
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Dark
+Relaxed Nature
+- Spikes
+- Light Screen
+- Reflect
+- Trick Room
+
+Komala @ Leftovers
+Ability: Comatose
+EVs: 252 HP / 232 SpD / 24 Spe
+Tera Type: Ghost
+Careful Nature
+- Rapid Spin
+- Wish
+- Shadow Claw
+- Bulk Up
+
+Koraidon @ Leftovers
+Ability: Orichalcum Pulse
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Flame Charge
+- Dragon Claw
+- Collision Course
+
+Koraidon @ Choice Scarf
+Ability: Orichalcum Pulse
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Collision Course
+- Dragon Claw
+- U-turn
+- Flare Blitz
+
+Koraidon @ Life Orb
+Ability: Orichalcum Pulse
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Flare Blitz
+- Stomping Tantrum
+
+Koraidon @ Leftovers
+Ability: Orichalcum Pulse
+EVs: 160 HP / 252 Atk / 4 Def / 92 Spe
+Tera Type: Ghost
+Adamant Nature
+- Agility
+- Bulk Up
+- Tera Blast
+- Drain Punch
+
+Koraidon @ Choice Band
+Ability: Orichalcum Pulse
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Close Combat
+- U-turn
+- Flare Blitz
+- Dragon Claw
+
+Koraidon @ Leftovers
+Ability: Orichalcum Pulse
+EVs: 48 HP / 252 Atk / 36 Def / 172 Spe
+Tera Type: Fire
+Adamant Nature
+- Taunt
+- Drain Punch
+- Flame Charge
+- Swords Dance
+
+Kricketune @ Focus Sash
+Ability: Technician
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Sticky Web
+- Pounce
+- Taunt
+- Protect
+
+Krookodile @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Earthquake
+- Crunch
+- Close Combat
+- Stone Edge
+
+Krookodile @ Choice Scarf
+Ability: Moxie
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Earthquake
+- Crunch
+- Close Combat
+- Stone Edge
+
+Krookodile @ Soft Sand
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Crunch
+- Taunt
+
+Krookodile @ Leftovers
+Ability: Moxie
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Bulk Up
+- Earthquake
+- Crunch
+- Aqua Tail
+
+Kyogre @ Blue Orb
+Ability: Drizzle
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Water
+Modest Nature
+- Origin Pulse
+- Ice Beam
+- Water Spout
+- Calm Mind
+
+Kyogre @ Blue Orb
+Ability: Drizzle
+EVs: 248 HP / 252 Def / 8 SpD
+Tera Type: Grass
+Bold Nature
+- Calm Mind
+- Scald
+- Ice Beam
+- Rest
+
+Leafeon @ Heavy-Duty Boots
+Ability: Chlorophyll
+EVs: 252 HP / 4 Atk / 252 Def
+Tera Type: Water
+Impish Nature
+- Wish
+- Protect
+- Leaf Blade
+- X-Scissor
+
+Lilligant @ Heavy-Duty Boots
+Ability: Chlorophyll
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fire
+Timid Nature
+- Quiver Dance
+- Giga Drain
+- Tera Blast
+- Sleep Powder
+
+Lokix @ Choice Band
+Ability: Tinted Lens
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Bug
+Jolly Nature
+- First Impression
+- U-turn
+- Leech Life
+- Axe Kick
+
+Lucario @ Life Orb
+Ability: Inner Focus
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Extreme Speed
+- Bullet Punch
+
+Lumineon @ Heavy-Duty Boots
+Ability: Storm Drain
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Grass
+Calm Nature
+- Surf
+- Ice Beam
+- U-turn
+- Encore
+
+Lurantis @ Heavy-Duty Boots
+Ability: Contrary
+EVs: 252 HP / 208 Def / 48 Spe
+Tera Type: Electric
+Bold Nature
+- Leaf Storm
+- Defog
+- Tera Blast
+- Synthesis
+
+Luxray @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Facade
+- Trailblaze
+- Crunch
+- Wild Charge
+
+Lycanroc-Dusk @ Choice Band
+Ability: Tough Claws
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Stone Edge
+- Close Combat
+- Accelerock
+- Crunch
+
+Lycanroc-Midnight @ Choice Scarf
+Ability: No Guard
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Rock
+Jolly Nature
+- Stone Edge
+- Close Combat
+- Play Rough
+- Stealth Rock
+
+Mabosstiff @ Choice Scarf
+Ability: Stakeout
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Crunch
+- Play Rough
+- Psychic Fangs
+- Destiny Bond
+
+Mabosstiff @ Choice Band
+Ability: Stakeout
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Crunch
+- Play Rough
+- Psychic Fangs
+- Retaliate
+
+Magnezone @ Assault Vest
+Ability: Magnet Pull
+EVs: 172 HP / 252 SpA / 84 Spe
+Tera Type: Grass
+Modest Nature
+- Thunderbolt
+- Volt Switch
+- Flash Cannon
+- Tera Blast
+
+Mareanie @ Eviolite
+Level: 5
+Ability: Regenerator
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD
+Tera Type: Water
+Bold Nature
+- Surf
+- Sludge Bomb
+- Recover
+- Toxic Spikes
+
+Masquerain @ Heavy-Duty Boots
+Ability: Intimidate
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Quiver Dance
+- Hurricane
+- Hydro Pump
+- Ice Beam
+
+Masquerain @ Focus Sash
+Ability: Intimidate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Sticky Web
+- Hurricane
+- Hydro Pump
+- U-turn
+
+Maushold @ Wide Lens
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Population Bomb
+- Tera Blast
+- Tidy Up
+- Low Kick
+
+Medicham @ Choice Scarf
+Ability: Pure Power
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Zen Headbutt
+- Thunder Punch
+- Trick
+
+Medicham @ Life Orb
+Ability: Pure Power
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Zen Headbutt
+- Trailblaze
+- Ice Punch
+
+Meloetta @ Assault Vest
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 252 SpD
+IVs: 0 Atk / 0 Spe
+Tera Type: Fairy
+Sassy Nature
+- U-turn
+- Nuzzle
+- Stone Axe
+- Dragon Tail
+
+Meowscarada @ Focus Sash
+Ability: Overgrow
+EVs: 4 Atk / 252 SpA / 252 Spe
+Tera Type: Ghost
+Naive Nature
+- Spikes
+- Taunt
+- Knock Off
+- Leaf Storm
+
+Meowscarada @ Heavy-Duty Boots
+Ability: Protean
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Knock Off
+- Sucker Punch
+- U-turn
+- Flower Trick
+
+Meowscarada @ Choice Band
+Ability: Protean
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Knock Off
+- Flower Trick
+- U-turn
+- Sucker Punch
+
+Meowscarada @ Choice Scarf
+Ability: Protean
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Grass
+Jolly Nature
+- Flower Trick
+- Knock Off
+- U-turn
+- Play Rough
+
+Mew @ Covert Cloak
+Ability: Synchronize
+EVs: 252 HP / 24 Def / 232 Spe
+Tera Type: Poison
+Timid Nature
+- Stored Power
+- Body Press
+- Cosmic Power
+- Roost
+
+Mimikyu @ Life Orb
+Ability: Disguise
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Jolly Nature
+- Swords Dance
+- Shadow Claw
+- Play Rough
+- Shadow Sneak
+
+Miraidon @ Choice Specs
+Ability: Hadron Engine
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Dragon
+Timid Nature
+- Electro Drift
+- Draco Meteor
+- Overheat
+- U-turn
+
+Miraidon @ Leftovers
+Ability: Hadron Engine
+EVs: 248 HP / 252 SpA / 8 Spe
+Tera Type: Fairy
+Modest Nature
+- Calm Mind
+- Agility
+- Parabolic Charge
+- Dazzling Gleam
+
+Miraidon @ Heavy-Duty Boots
+Ability: Hadron Engine
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Water
+Timid Nature
+- Electro Drift
+- U-turn
+- Draco Meteor
+- Tera Blast
+
+Miraidon @ Life Orb
+Ability: Hadron Engine
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Dragon
+Timid Nature
+- Electro Drift
+- Draco Meteor
+- Calm Mind
+- Overheat
+
+Miraidon @ Choice Scarf
+Ability: Hadron Engine
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fairy
+Timid Nature
+- Electro Drift
+- Draco Meteor
+- Overheat
+- U-turn
+
+Miraidon @ Assault Vest
+Ability: Hadron Engine
+EVs: 8 HP / 252 SpA / 156 SpD / 92 Spe
+Tera Type: Fairy
+Modest Nature
+- Parabolic Charge
+- Electro Drift
+- Draco Meteor
+- U-turn
+
+Mismagius @ Leftovers
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Draining Kiss
+- Taunt
+
+Moltres @ Covert Cloak
+Ability: Fur Coat
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Bold Nature
+- Recover
+- Nuzzle
+- Torch Song
+- U-turn
+
+Mudsdale @ Leftovers
+Ability: Stamina
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Steel
+Impish Nature
+- Stealth Rock
+- Earthquake
+- Heavy Slam
+- Roar
+
+Muk @ Leftovers
+Ability: Poison Touch
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Dark
+Careful Nature
+- Poison Jab
+- Drain Punch
+- Haze
+- Toxic Spikes
+
+Muk @ Leftovers
+Ability: Poison Touch
+EVs: 252 HP / 4 Atk / 252 SpD
+Tera Type: Water
+Careful Nature
+- Curse
+- Poison Jab
+- Drain Punch
+- Shadow Sneak
+
+Noivern @ Heavy-Duty Boots
+Ability: Frisk
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Water
+Timid Nature
+- Draco Meteor
+- Flamethrower
+- U-turn
+- Roost
+
+Oinkologne-F @ Apicot Berry
+Ability: Thick Fat
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Atk
+Tera Type: Ghost
+Careful Nature
+- Body Press
+- Stuff Cheeks
+- Stockpile
+- Rest
+
+Oranguru @ Leftovers
+Ability: Inner Focus
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Atk
+Tera Type: Fairy
+Calm Nature
+- Protect
+- Future Sight
+- Foul Play
+- Encore
+
+Oranguru @ Leftovers
+Ability: Inner Focus
+EVs: 252 HP / 252 SpA / 4 Spe
+IVs: 0 Atk
+Tera Type: Fairy
+Modest Nature
+- Nasty Plot
+- Psyshock
+- Tera Blast
+- Focus Blast
+
+Oricorio @ Heavy-Duty Boots
+Ability: Dancer
+EVs: 248 HP / 8 Def / 252 Spe
+Tera Type: Grass
+Timid Nature
+- Quiver Dance
+- Revelation Dance
+- Hurricane
+- Roost
+
+Oricorio-Pom-Pom @ Heavy-Duty Boots
+Ability: Dancer
+EVs: 244 HP / 212 Def / 52 Spe
+Tera Type: Water
+Timid Nature
+- Quiver Dance
+- Revelation Dance
+- Hurricane
+- Roost
+
+Oricorio-Sensu @ Heavy-Duty Boots
+Ability: Dancer
+EVs: 244 HP / 212 Def / 52 Spe
+Tera Type: Fighting
+Timid Nature
+- Quiver Dance
+- Revelation Dance
+- Hurricane
+- Roost
+
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+EVs: 248 HP / 252 Def / 8 SpD
+Tera Type: Water
+Impish Nature
+- Shed Tail
+- Stealth Rock
+- Body Press
+- Iron Head
+
+Palafin @ Choice Band
+Ability: Zero to Hero
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Water
+Adamant Nature
+- Jet Punch
+- Flip Turn
+- Wave Crash
+- Zen Headbutt
+
+Palafin @ Leftovers
+Ability: Zero to Hero
+EVs: 248 HP / 8 Atk / 252 SpD
+Tera Type: Fairy
+Careful Nature
+- Jet Punch
+- Bulk Up
+- Drain Punch
+- Taunt
+
+Palossand @ Leftovers
+Ability: Water Compaction
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk
+Tera Type: Water
+Bold Nature
+- Stealth Rock
+- Earth Power
+- Shadow Ball
+- Shore Up
+
+Pawmot @ Life Orb
+Ability: Natural Cure
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Electric
+Jolly Nature
+- Double Shock
+- Close Combat
+- Seed Bomb
+- Rest
+
+Pawmot @ Choice Scarf
+Ability: Natural Cure
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Electric
+Jolly Nature
+- Double Shock
+- Close Combat
+- Ice Punch
+- Revival Blessing
+
+Pelipper @ Damp Rock
+Ability: Drizzle
+EVs: 248 HP / 252 Def / 8 SpD
+IVs: 0 Spe
+Tera Type: Water
+Relaxed Nature
+- Hurricane
+- Surf
+- U-turn
+- Roost
+
+Pelipper @ Choice Specs
+Ability: Drizzle
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Water
+Modest Nature
+- Hurricane
+- Surf
+- U-turn
+- Hydro Pump
+
+Perrserker @ Leftovers
+Ability: Tough Claws
+EVs: 252 HP / 4 Atk / 252 Def
+Tera Type: Water
+Adamant Nature
+- Stealth Rock
+- Iron Head
+- Close Combat
+- U-turn
+
+Perrserker @ Choice Band
+Ability: Tough Claws
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ground
+Adamant Nature
+- Iron Head
+- Close Combat
+- U-turn
+- Tera Blast
+
+Persian @ Heavy-Duty Boots
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Fake Out
+- Covet
+- U-turn
+- Assurance
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+EVs: 100 Atk / 192 SpA / 216 Spe
+Hasty Nature
+- Volt Tackle
+- Play Rough
+- Volt Switch
+- Grass Knot
+
+Pikachu @ Light Ball
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+Naive Nature
+- Thunderbolt
+- Surf
+- Volt Switch
+- Fake Out
+
+Polteageist @ Focus Sash
+Ability: Weak Armor
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fighting
+Modest Nature
+- Shell Smash
+- Shadow Ball
+- Stored Power
+- Tera Blast
+
+Pyroar @ Heavy-Duty Boots
+Ability: Unnerve
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fighting
+Timid Nature
+- Fire Blast
+- Tera Blast
+- Will-O-Wisp
+- Taunt
+
+Pyroar @ Choice Scarf
+Ability: Unnerve
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Fighting
+Timid Nature
+- Fire Blast
+- Hyper Voice
+- Tera Blast
+- Dark Pulse
+
+Quagsire @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Poison
+Impish Nature
+- Toxic
+- Earthquake
+- Recover
+- Spikes
+
+Quaquaval @ Leftovers
+Ability: Moxie
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Swords Dance
+- Aqua Step
+- Close Combat
+- Ice Spinner
+
+Quaquaval @ Psychic Seed
+Ability: Moxie
+EVs: 252 HP / 28 Atk / 228 Spe
+Tera Type: Flying
+Adamant Nature
+- Bulk Up
+- Aqua Step
+- Acrobatics
+- Roost
+
+Quaquaval @ Choice Scarf
+Ability: Moxie
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Aqua Step
+- Ice Spinner
+- Close Combat
+- U-turn
+
+Qwilfish @ Rocky Helmet
+Ability: Poison Point
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Ground
+Impish Nature
+- Spikes
+- Toxic
+- Waterfall
+- Taunt
+
+Rabsca @ Life Orb
+Ability: Synchronize
+EVs: 252 HP / 4 Def / 252 SpA
+IVs: 0 Atk / 0 Spe
+Tera Type: Ground
+Quiet Nature
+- Trick Room
+- Psyshock
+- Earth Power
+- Bug Buzz
+
+Rabsca @ Heavy-Duty Boots
+Ability: Synchronize
+EVs: 252 HP / 212 Def / 44 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Modest Nature
+- Calm Mind
+- Earth Power
+- Psyshock
+- Recover
+
+Rabsca @ Leppa Berry
+Ability: Synchronize
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk / 0 Spe
+Tera Type: Psychic
+Relaxed Nature
+- Trick Room
+- Revival Blessing
+- Psychic
+- Memento
+
+Raichu @ Heavy-Duty Boots
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Timid Nature
+- Nasty Plot
+- Thunderbolt
+- Surf
+- Tera Blast
+
+Raichu @ Choice Specs
+Ability: Lightning Rod
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Surf
+- Tera Blast
+
+Rayquaza @ Covert Cloak
+Ability: Aerilate
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+Tera Type: Flying
+Rash Nature
+- Strength Sap
+- Boomburst
+- Rapid Spin
+- Extreme Speed
+
+Revavroom @ Leftovers
+Ability: Filter
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Flying
+Careful Nature
+- Spin Out
+- Parting Shot
+- Haze
+- Toxic
+
+Revavroom @ Life Orb
+Ability: Filter
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ground
+Adamant Nature
+- Shift Gear
+- Iron Head
+- Gunk Shot
+- Tera Blast
+
+Revavroom @ Choice Scarf
+Ability: Filter
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Gunk Shot
+- Iron Head
+- Parting Shot
+- Toxic Spikes
+
+Rillaboom @ Choice Band
+Ability: Grassy Surge
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Grass
+Adamant Nature
+- Grassy Glide
+- Wood Hammer
+- Knock Off
+- U-turn
+
+Rillaboom @ Leftovers
+Ability: Grassy Surge
+EVs: 240 HP / 252 Atk / 16 Spe
+Tera Type: Grass
+Adamant Nature
+- Grassy Glide
+- Knock Off
+- Superpower
+- Swords Dance
+
+Roaring Moon @ Booster Energy
+Ability: Protosynthesis
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Dragon Dance
+- Crunch
+- Earthquake
+- Acrobatics
+
+Roaring Moon @ Choice Band
+Ability: Protosynthesis
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Adamant Nature
+- Crunch
+- Dragon Claw
+- Earthquake
+- U-turn
+
+Rotom @ Choice Scarf
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Electric
+Timid Nature
+- Thunderbolt
+- Shadow Ball
+- Volt Switch
+- Trick
+
+Rotom @ Leftovers
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Nasty Plot
+- Volt Switch
+- Shadow Ball
+- Will-O-Wisp
+
+Rotom @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 8 SpA / 252 Spe
+Tera Type: Electric
+Timid Nature
+- Volt Switch
+- Hex
+- Will-O-Wisp
+- Protect
+
+Rotom-Fan @ Heavy-Duty Boots
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Electric
+Timid Nature
+- Will-O-Wisp
+- Air Slash
+- Discharge
+- Volt Switch
+
+Rotom-Fan @ Choice Scarf
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Electric
+Timid Nature
+- Trick
+- Air Slash
+- Discharge
+- Volt Switch
+
+Rotom-Frost @ Choice Scarf
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Blizzard
+- Volt Switch
+- Trick
+- Will-O-Wisp
+
+Rotom-Frost @ Leftovers
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Nasty Plot
+- Blizzard
+- Thunderbolt
+- Substitute
+
+Rotom-Heat @ Heavy-Duty Boots
+Ability: Levitate
+EVs: 248 HP / 8 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Timid Nature
+- Nasty Plot
+- Overheat
+- Volt Switch
+- Will-O-Wisp
+
+Rotom-Mow @ Choice Scarf
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Electric
+Timid Nature
+- Leaf Storm
+- Volt Switch
+- Thunderbolt
+- Trick
+
+Rotom-Mow @ Leftovers
+Ability: Levitate
+EVs: 4 HP / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Electric
+Timid Nature
+- Nasty Plot
+- Leaf Storm
+- Discharge
+- Protect
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 244 Def / 12 Spe
+Tera Type: Steel
+Bold Nature
+- Volt Switch
+- Hydro Pump
+- Protect
+- Thunder Wave
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 244 SpD / 12 Spe
+Tera Type: Fairy
+Calm Nature
+- Hydro Pump
+- Volt Switch
+- Thunder Wave
+- Protect
+
+Rotom-Wash @ Choice Scarf
+Ability: Levitate
+EVs: 252 HP / 4 Def / 252 Spe
+Tera Type: Steel
+Timid Nature
+- Volt Switch
+- Hydro Pump
+- Trick
+- Thunder Wave
+
+Sableye @ Heavy-Duty Boots
+Ability: Prankster
+EVs: 248 HP / 252 Def / 8 SpD
+Tera Type: Ghost
+Impish Nature
+- Knock Off
+- Will-O-Wisp
+- Recover
+- Encore
+
+Salamence @ Heavy-Duty Boots
+Ability: Intimidate
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Water
+Timid Nature
+- Draco Meteor
+- Hurricane
+- Flamethrower
+- Roost
+
+Salamence @ Heavy-Duty Boots
+Ability: Moxie
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Dragon Dance
+- Outrage
+- Earthquake
+- Dual Wingbeat
+
+Salazzle @ Heavy-Duty Boots
+Ability: Corrosion
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Flamethrower
+- Sludge Bomb
+- Toxic
+- Toxic Spikes
+
+Samurott @ Leftovers
+Ability: Shell Armor
+EVs: 40 HP / 252 Atk / 216 Spe
+Tera Type: Fairy
+Adamant Nature
+- Swords Dance
+- Liquidation
+- Knock Off
+- Megahorn
+
+Sandaconda @ Rocky Helmet
+Ability: Shed Skin
+EVs: 252 HP / 176 Def / 80 Spe
+Tera Type: Ghost
+Impish Nature
+- Stealth Rock
+- Earthquake
+- Glare
+- Rest
+
+Sandaconda @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 4 Def / 252 Spe
+Tera Type: Dragon
+Jolly Nature
+- Coil
+- Earthquake
+- Stone Edge
+- Rest
+
+Sandy Shocks @ Heavy-Duty Boots
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ice
+Timid Nature
+- Volt Switch
+- Earth Power
+- Thunderbolt
+- Tera Blast
+
+Sandy Shocks @ Booster Energy
+Ability: Protosynthesis
+EVs: 48 HP / 208 SpA / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Stealth Rock
+- Spikes
+- Earth Power
+- Thunderbolt
+
+Sawsbuck @ Heavy-Duty Boots
+Ability: Serene Grace
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Swords Dance
+- Headbutt
+- Horn Leech
+- Stomping Tantrum
+
+Sawsbuck @ Choice Scarf
+Ability: Serene Grace
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Headbutt
+- Horn Leech
+- Double-Edge
+- Zen Headbutt
+
+Scizor @ Heavy-Duty Boots
+Ability: Technician
+EVs: 32 HP / 252 Atk / 224 Spe
+Tera Type: Fire
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- U-turn
+- Close Combat
+
+Scizor @ Life Orb
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fire
+Adamant Nature
+- Swords Dance
+- Bullet Punch
+- Close Combat
+- Quick Attack
+
+Scizor @ Choice Band
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Close Combat
+- Trailblaze
+
+Scovillain @ Leftovers
+Ability: Moody
+EVs: 252 HP / 4 SpA / 252 Spe
+Tera Type: Water
+Timid Nature
+- Leech Seed
+- Flamethrower
+- Substitute
+- Protect
+
+Scream Tail @ Leftovers
+Ability: Protosynthesis
+EVs: 252 HP / 4 SpD / 252 Spe
+Tera Type: Poison
+Timid Nature
+- Wish
+- Protect
+- Dazzling Gleam
+- Encore
+
+Seviper @ Life Orb
+Ability: Shed Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Ground
+Jolly Nature
+- Swords Dance
+- Gunk Shot
+- Earthquake
+- Trailblaze
+
+Skeledirge @ Heavy-Duty Boots
+Ability: Unaware
+EVs: 248 HP / 8 SpA / 252 SpD
+Tera Type: Fairy
+Calm Nature
+- Torch Song
+- Will-O-Wisp
+- Hex
+- Slack Off
+
+Skeledirge @ Heavy-Duty Boots
+Ability: Unaware
+EVs: 252 HP / 40 Def / 188 SpD / 28 Spe
+Tera Type: Fairy
+Bold Nature
+- Substitute
+- Torch Song
+- Shadow Ball
+- Slack Off
+
+Skuntank @ Heavy-Duty Boots
+Ability: Aftermath
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Toxic Spikes
+- Crunch
+- Sucker Punch
+- Gunk Shot
+
+Skuntank @ Heavy-Duty Boots
+Ability: Aftermath
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Dark
+Timid Nature
+- Nasty Plot
+- Dark Pulse
+- Fire Blast
+- Sludge Bomb
+
+Skuntank @ Choice Scarf
+Ability: Aftermath
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Crunch
+- Gunk Shot
+- Toxic Spikes
+- Memento
+
+Skuntank @ Heavy-Duty Boots
+Ability: Aftermath
+EVs: 252 HP / 4 Atk / 252 SpD
+Tera Type: Flying
+Careful Nature
+- Crunch
+- Sucker Punch
+- Toxic
+- Taunt
+
+Slaking @ Choice Band
+Ability: Truant
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Adamant Nature
+- Giga Impact
+- Earthquake
+- Low Kick
+- Outrage
+
+Slither Wing @ Protective Pads
+Ability: Protosynthesis
+EVs: 248 HP / 16 Atk / 60 SpD / 184 Spe
+Tera Type: Ghost
+Adamant Nature
+- First Impression
+- Close Combat
+- U-turn
+- Morning Sun
+
+Slowbro @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Fairy
+Bold Nature
+- Future Sight
+- Ice Beam
+- Thunder Wave
+- Slack Off
+
+Slowking @ Heavy-Duty Boots
+Ability: Regenerator
+EVs: 248 HP / 8 Def / 252 SpD
+IVs: 0 Atk / 0 Spe
+Tera Type: Water
+Sassy Nature
+- Future Sight
+- Chilly Reception
+- Surf
+- Slack Off
+
+Spidops @ Focus Sash
+Ability: Stakeout
+EVs: 248 HP / 252 Atk / 8 Def
+Tera Type: Ghost
+Adamant Nature
+- Sticky Web
+- Spikes
+- First Impression
+- Circle Throw
+
+Spidops @ Heavy-Duty Boots
+Ability: Stakeout
+EVs: 248 HP / 252 Atk / 8 Def
+Tera Type: Bug
+Adamant Nature
+- First Impression
+- Spikes
+- U-turn
+- Circle Throw
+
+Spiritomb @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Fairy
+Calm Nature
+- Calm Mind
+- Dark Pulse
+- Rest
+- Sleep Talk
+
+Squawkabilly @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Facade
+- Brave Bird
+- Quick Attack
+- U-turn
+
+Squawkabilly @ Heavy-Duty Boots
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Electric
+Jolly Nature
+- Brave Bird
+- Quick Attack
+- Double-Edge
+- Parting Shot
+
+Squawkabilly @ Choice Scarf
+Ability: Hustle
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Double-Edge
+- Aerial Ace
+- U-turn
+
+Staraptor @ Choice Scarf
+Ability: Reckless
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Brave Bird
+- Double-Edge
+- Close Combat
+- U-turn
+
+Stonjourner @ Rocky Helmet
+Ability: Power Spot
+EVs: 120 HP / 252 Def / 136 Spe
+Tera Type: Fighting
+Impish Nature
+- Stealth Rock
+- Iron Defense
+- Body Press
+- Stone Edge
+
+Stonjourner @ Rocky Helmet
+Ability: Power Spot
+EVs: 4 Atk / 252 Def / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Rock Polish
+- Iron Defense
+- Body Press
+- Stone Edge
+
+Swalot @ Heavy-Duty Boots
+Ability: Liquid Ooze
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Atk
+Tera Type: Ghost
+Calm Nature
+- Acid Armor
+- Body Press
+- Toxic Spikes
+- Encore
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 Def / 4 SpD
+IVs: 0 Atk
+Tera Type: Steel
+Bold Nature
+- Hyper Voice
+- Wish
+- Protect
+- Calm Mind
+
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Modest Nature
+- Tera Blast
+- Hyper Voice
+- Shadow Ball
+- Psyshock
+
+Talonflame @ Heavy-Duty Boots
+Ability: Flame Body
+EVs: 248 HP / 8 Atk / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Brave Bird
+- Will-O-Wisp
+- Taunt
+- Roost
+
+Talonflame @ Heavy-Duty Boots
+Ability: Flame Body
+EVs: 248 HP / 8 Def / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Flare Blitz
+- Will-O-Wisp
+- U-turn
+- Roost
+
+Tatsugiri @ Heavy-Duty Boots
+Ability: Commander
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Timid Nature
+- Nasty Plot
+- Draco Meteor
+- Surf
+- Rapid Spin
+
+Tauros-Paldea-Aqua @ Choice Band
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Wave Crash
+- Close Combat
+- Wild Charge
+- Aqua Jet
+
+Tauros-Paldea-Aqua @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Bulk Up
+- Raging Bull
+- Close Combat
+- Trailblaze
+
+Tauros-Paldea-Blaze @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 4 Atk / 252 Def
+Tera Type: Grass
+Impish Nature
+- Will-O-Wisp
+- Body Press
+- Raging Bull
+- Rest
+
+Tauros-Paldea-Combat @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Rock
+Jolly Nature
+- Bulk Up
+- Close Combat
+- Trailblaze
+- Stone Edge
+
+Ting-Lu @ Leftovers
+Ability: Vessel of Ruin
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Poison
+Careful Nature
+- Stealth Rock
+- Spikes
+- Whirlwind
+- Earthquake
+
+Tinkaton @ Leftovers
+Ability: Mold Breaker
+EVs: 252 HP / 84 Def / 172 SpD
+Tera Type: Dark
+Careful Nature
+- Stealth Rock
+- Gigaton Hammer
+- Knock Off
+- Encore
+
+Tinkaton @ Leftovers
+Ability: Mold Breaker
+EVs: 252 HP / 84 Def / 172 SpD
+Tera Type: Dark
+Careful Nature
+- Swords Dance
+- Gigaton Hammer
+- Knock Off
+- Encore
+
+Toedscruel @ Focus Sash
+Ability: Mycelium Might
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Ghost
+Timid Nature
+- Spore
+- Spikes
+- Leaf Storm
+- Rapid Spin
+
+Toxapex @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 192 Def / 64 SpD
+Tera Type: Steel
+Bold Nature
+- Surf
+- Recover
+- Toxic
+- Haze
+
+Toxapex @ Assault Vest
+Ability: Regenerator
+EVs: 248 HP / 252 SpA / 8 SpD
+Tera Type: Fairy
+Modest Nature
+- Surf
+- Sludge Bomb
+- Infestation
+- Acid Spray
+
+Toxicroak @ Life Orb
+Ability: Dry Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Swords Dance
+- Close Combat
+- Gunk Shot
+- Sucker Punch
+
+Toxicroak @ Life Orb
+Ability: Dry Skin
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Fighting
+Timid Nature
+- Nasty Plot
+- Focus Blast
+- Sludge Bomb
+- Dark Pulse
+
+Toxicroak @ Choice Scarf
+Ability: Dry Skin
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Gunk Shot
+- Earthquake
+- Rock Slide
+
+Toxtricity @ Choice Specs
+Ability: Punk Rock
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Normal
+Modest Nature
+- Volt Switch
+- Overdrive
+- Sludge Bomb
+- Boomburst
+
+Toxtricity @ Choice Scarf
+Ability: Punk Rock
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Normal
+Timid Nature
+- Volt Switch
+- Overdrive
+- Sludge Bomb
+- Boomburst
+
+Tsareena @ Heavy-Duty Boots
+Ability: Queenly Majesty
+EVs: 252 HP / 44 Atk / 212 Spe
+Tera Type: Fairy
+Jolly Nature
+- Power Whip
+- U-turn
+- Rapid Spin
+- Synthesis
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Flying
+Adamant Nature
+- Stone Edge
+- Crunch
+- Earthquake
+- Ice Punch
+
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Flying
+Jolly Nature
+- Dragon Dance
+- Substitute
+- Stone Edge
+- Earthquake
+
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Ground
+Careful Nature
+- Stealth Rock
+- Stone Edge
+- Crunch
+- Earthquake
+
+Umbreon @ Leftovers
+Ability: Synchronize
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Poison
+Calm Nature
+- Foul Play
+- Wish
+- Protect
+- Thunder Wave
+
+Ursaluna @ Choice Band
+Ability: Sword of Ruin
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Normal
+Adamant Nature
+- Population Bomb
+- Headlong Rush
+- Extreme Speed
+- U-turn
+
+Ursaring @ Eviolite
+Ability: Guts
+EVs: 252 HP / 168 SpD / 88 Spe
+Tera Type: Fairy
+Careful Nature
+- Bulk Up
+- Play Rough
+- Rest
+- Sleep Talk
+
+Ursaring @ Flame Orb
+Ability: Guts
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Ghost
+Jolly Nature
+- Trailblaze
+- Facade
+- Shadow Claw
+- Swords Dance
+
+Vaporeon @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 196 Def / 60 SpD
+Tera Type: Dark
+Bold Nature
+- Surf
+- Haze
+- Wish
+- Protect
+
+Veluza @ Sitrus Berry
+Ability: Sharpness
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Water
+Adamant Nature
+- Fillet Away
+- Aqua Cutter
+- Psycho Cut
+- Substitute
+
+Vespiquen @ Heavy-Duty Boots
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 SpD
+Tera Type: Ghost
+Impish Nature
+- Spikes
+- U-turn
+- Roost
+- Toxic
+
+Vivillon @ Heavy-Duty Boots
+Ability: Compound Eyes
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Ground
+Timid Nature
+- Quiver Dance
+- Sleep Powder
+- Hurricane
+- Substitute
+
+Volcanion @ Choice Specs
+Ability: Water Absorb
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Water
+Modest Nature
+- Steam Eruption
+- Fire Blast
+- Earth Power
+- Sludge Wave
+
+Volcanion @ Heavy-Duty Boots
+Ability: Water Absorb
+EVs: 252 SpA / 4 SpD / 252 Spe
+Tera Type: Grass
+Modest Nature
+- Steam Eruption
+- Flamethrower
+- Earth Power
+- Toxic
+
+Volcarona @ Heavy-Duty Boots
+Ability: Flame Body
+EVs: 248 HP / 108 Def / 152 Spe
+Tera Type: Grass
+Timid Nature
+- Quiver Dance
+- Fiery Dance
+- Morning Sun
+- Will-O-Wisp
+
+Volcarona @ Heavy-Duty Boots
+Ability: Flame Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ground
+Timid Nature
+- Quiver Dance
+- Flamethrower
+- Bug Buzz
+- Tera Blast
+
+Walking Wake @ Choice Specs
+Ability: Protosynthesis
+EVs: 12 HP / 244 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Hydro Steam
+- Flamethrower
+- Draco Meteor
+- Dragon Pulse
+
+Walking Wake @ Booster Energy
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Modest Nature
+- Agility
+- Hydro Steam
+- Dragon Pulse
+- Flamethrower
+
+Walking Wake @ Leftovers
+Ability: Protosynthesis
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Water
+Timid Nature
+- Substitute
+- Hydro Steam
+- Dragon Pulse
+- Roar
+
+Weavile @ Choice Band
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Dark
+Jolly Nature
+- Ice Shard
+- Night Slash
+- Icicle Crash
+- Beat Up
+
+Weavile @ Life Orb
+Ability: Pressure
+EVs: 4 HP / 252 Atk / 252 Spe
+Tera Type: Ice
+Jolly Nature
+- Swords Dance
+- Night Slash
+- Ice Shard
+- Icicle Crash
+
+Wo-Chien @ Leftovers
+Ability: Tablets of Ruin
+EVs: 252 HP / 4 Def / 252 SpD
+Tera Type: Poison
+Careful Nature
+- Knock Off
+- Leech Seed
+- Protect
+- Ruination
+
+Wo-Chien @ Leftovers
+Ability: Tablets of Ruin
+EVs: 252 HP / 196 Def / 60 SpD
+Tera Type: Ghost
+Careful Nature
+- Knock Off
+- Foul Play
+- Rest
+- Sleep Talk
+
+Wugtrio @ Choice Band
+Ability: Gooey
+EVs: 252 Atk / 4 Def / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Triple Dive
+- Aqua Jet
+- Stomping Tantrum
+- Throat Chop
+
+Zacian @ Covert Cloak
+Ability: Ice Scales
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Steel
+Jolly Nature
+- Shore Up
+- Spirit Break
+- Haze
+- Spikes
+
+Zacian @ Heavy-Duty Boots
+Ability: Fur Coat
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Shore Up
+- Magical Torque
+- Knock Off
+- Will-O-Wisp
+
+Zacian @ Protective Pads
+Ability: Pixilate
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe
+Tera Type: Fairy
+Jolly Nature
+- Population Bomb
+- Coil
+- Strength Sap
+- Rapid Spin
+
+Zacian-Crowned @ Rusted Sword
+Ability: Intrepid Sword
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Swords Dance
+- Behemoth Blade
+- Wild Charge
+- Close Combat
+
+Zamazenta @ Choice Band
+Ability: Dauntless Shield
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Fighting
+Jolly Nature
+- Close Combat
+- Crunch
+- Wild Charge
+- Ice Fang
+
+Zamazenta @ Leftovers
+Ability: Dauntless Shield
+EVs: 252 HP / 4 Def / 252 Spe
+Tera Type: Water
+Jolly Nature
+- Body Press
+- Crunch
+- Rest
+- Iron Defense
+
+Zangoose @ Toxic Orb
+Ability: Toxic Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Tera Type: Normal
+Jolly Nature
+- Facade
+- Quick Attack
+- Swords Dance
+- Night Slash
+
+Zapdos @ Flyinium Z
+Ability: Static
+EVs: 88 HP / 168 SpA / 252 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Timid Nature
+- Hurricane
+- Thunderbolt
+- Volt Switch
+- Roost
+
+Zapdos @ Heavy-Duty Boots
+Ability: Static
+EVs: 104 HP / 252 SpA / 152 Spe
+IVs: 0 Atk
+Tera Type: Flying
+Timid Nature
+- Thunder
+- Hurricane
+- Weather Ball
+- Roost
+
+Zapdos @ Heavy-Duty Boots
+Ability: Static
+EVs: 252 HP / 184 Def / 72 Spe
+IVs: 0 Atk
+Tera Type: Steel
+Bold Nature
+- Volt Switch
+- Hurricane
+- Heat Wave
+- Roost
+
+Zoroark @ Choice Specs
+Ability: Illusion
+EVs: 4 HP / 252 SpA / 252 Spe
+Tera Type: Dark
+Timid Nature
+- Dark Pulse
+- Psychic
+- Sludge Bomb
+- U-turn
+
+Zoroark @ Choice Scarf
+Ability: Illusion
+EVs: 4 Def / 252 SpA / 252 Spe
+Tera Type: Dark
+Timid Nature
+- Dark Pulse
+- Psychic
+- Sludge Bomb
+- U-turn
+
+Zoroark-Hisui @ Choice Specs
+Ability: Illusion
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ghost
+Timid Nature
+- Shadow Ball
+- Grass Knot
+- Flamethrower
+- Trick
+
+Zoroark-Hisui @ Focus Sash
+Ability: Illusion
+EVs: 252 SpA / 4 SpD / 252 Spe
+IVs: 0 Atk
+Tera Type: Ghost
+Timid Nature
+- Nasty Plot
+- Shadow Ball
+- Grass Knot
+- Flamethrower
