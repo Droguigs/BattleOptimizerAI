@@ -1,10 +1,15 @@
 import asyncio
+from typing import Optional, Union
 import numpy as np
 import poke_env.data as data
 import os
 
 from gym.spaces import Space, Box
 from gym.utils.env_checker import check_env
+from poke_env.player.player import Player
+from poke_env.player_configuration import PlayerConfiguration
+from poke_env.server_configuration import ServerConfiguration
+from poke_env.teambuilder.teambuilder import Teambuilder
 from rl.agents.dqn import DQNAgent
 from rl.memory import SequentialMemory
 from rl.policy import LinearAnnealedPolicy, EpsGreedyQPolicy
@@ -25,6 +30,7 @@ from poke_env.player import (
 )
 
 class SimpleRLPlayer(Gen8EnvSinglePlayer):
+
     def calc_reward(self, last_battle, current_battle) -> float:
         return self.reward_computing_helper(
             current_battle, fainted_value=2.0, hp_value=1.0, victory_value=30.0
@@ -99,7 +105,7 @@ async def main():
     model.add(Dense(n_action, activation="linear"))
 
     # Defining the DQN
-    memory = SequentialMemory(limit=10000, window_length=1)
+    memory = SequentialMemory(limit=5, window_length=1)
 
     policy = LinearAnnealedPolicy(
         EpsGreedyQPolicy(),
@@ -107,7 +113,7 @@ async def main():
         value_max=1.0,
         value_min=0.05,
         value_test=0.0,
-        nb_steps=10000,
+        nb_steps=5,
     )
 
     dqn = DQNAgent(
