@@ -64,7 +64,7 @@ async def main():
         nb_actions=n_action,
         policy=policy,
         memory=memory,
-        nb_steps_warmup=5,
+        nb_steps_warmup=2500,
         gamma=0.5,
         target_model_update=1,
         delta_clip=0.01,
@@ -73,7 +73,7 @@ async def main():
     dqn.compile(Adam(learning_rate=0.00025), metrics=["mae"])
 
     # Training the model
-    dqn.fit(train_env, nb_steps=5)
+    dqn.fit(train_env, nb_steps=10000)
     train_env.close()
 
     # Evaluating the model

@@ -1,0 +1,101 @@
+{
+    "trickroom": {
+        "move": {
+        "accuracy": 1.0,
+        "base_power": 0,
+        "boosts": null,
+        "breaks_protect": false,
+        "category": {
+            "name": "STATUS",
+            "value": 3
+        },
+        "crit_ratio": 0,
+        "damage": 0,
+        "defensive_category": {
+            "name": "STATUS",
+            "value": 3
+        },
+        "drain": 0.0,
+        "expected_hits": 1,
+        "force_switch": false,
+        "heal": 0.0,
+        "max_pp": 5,
+        "priority": -7,
+        "pseudo_weather": "trickroom",
+        "recoil": 0.0,
+        "secondary": null,
+        "self_destruct": null,
+        "self_switch": false,
+        "status": null
+        }
+    },
+    "earthquake": {
+        "move": {
+        "accuracy": 1.0,
+        "base_power": 90,
+        "boosts": null,
+        "breaks_protect": false,
+        "category": {
+            "name": "SPECIAL",
+            "value": 2
+        },
+        "crit_ratio": 0,
+        "damage": 0,
+        "defensive_category": {
+            "name": "SPECIAL",
+            "value": 2
+        },
+        "drain": 0.0,
+        "expected_hits": 1,
+        "force_switch": false,
+        "heal": 0.0,
+        "max_pp": 5,
+        "priority": -7,
+        "pseudo_weather": null,
+        "recoil": 0.0,
+        "secondary": {
+            "0": {
+            "chance": 10,
+            "status": "brn"
+            }
+        },
+        "self_destruct": null,
+        "self_switch": false,
+        "status": null
+        }
+    },
+  "calm_mind": {
+        "move": {
+        "accuracy": 1.0,
+        "base_power": 0,
+        "boosts": {
+            "spa": 1,
+            "spd": 1
+        },
+        "breaks_protect": false,
+        "category": {
+            "name": "STATUS",
+            "value": 3
+        },
+        "crit_ratio": 0,
+        "damage": 0,
+        "deducted_target": "self",
+        "defensive_category": {
+            "name": "STATUS",
+            "value": 3
+        },
+        "drain": 0.0,
+        "expected_hits": 1,
+        "force_switch": false,
+        "heal": 0.0,
+        "max_pp": 5,
+        "priority": -7,
+        "pseudo_weather": null,
+        "recoil": 0.0,
+        "secondary": null,
+        "self_destruct": null,
+        "self_switch": false,
+        "status": null
+        }
+    }
+}
